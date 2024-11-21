@@ -12,3 +12,7 @@ Tenha instalado o python, você pode baixar em: `https://www.python.org/download
 `VS code`
 # Abra o arquivo na ide:
 aperte em `run` ou no display de play
+# Navegue pelo sistema:
+Através do terminal você consegue navegar pelo sistema
+
+Obrigado, Thanks, Gracias!
